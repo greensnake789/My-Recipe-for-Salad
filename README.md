@@ -1,1 +1,1 @@
-# My-Recipe-for-Salad
+This is my recipe for a simple salad.
